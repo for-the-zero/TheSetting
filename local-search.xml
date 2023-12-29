@@ -8,7 +8,7 @@
     <link href="/TheSetting/README/"/>
     <url>/TheSetting/README/</url>
     
-    <content type="html"><![CDATA[<h1 id="README-md"><a href="#README-md" class="headerlink" title="README.md"></a>README.md</h1><p><strong>非正文</strong></p><ul><li>只是和朋友聊天时的一个突发奇想，然后完善了亿下</li><li>怎么说呢……脑洞大开、哲学、想象、设定……</li><li>提建议/发现bug：<a href="mailto:forthezero@outlook.com">forthezero@outlook.com</a></li><li>可以当作一个设定看</li><li><del>设定的背后还有一个设定哦（小声</del></li><li>想到什么写什么吧</li></ul><hr><p>一开始是一个文件，本地编辑导出图片的</p><p>后来想扩张了，出了这么多文件，分享很不方便</p><p>就想着搞在线版</p><p>于是使用python+streamlit做了一个</p><p>结果发现它对中文标题的文本锚点不是中文</p><p>还有许多其它问题</p><p>总之放弃了</p><p>换用hexo搞，用fluid主题</p><p>主页的字来自<a href="//hitokoto.cn">一言api</a>中的哲学板块（请求失败会显示<code>:D</code>），与内容无关</p><hr><p>斜体字是引用一句话的意思哦</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="README-md"><a href="#README-md" class="headerlink" title="README.md"></a>README.md</h1><p><strong>非正文</strong></p><ul><li>只是和朋友聊天时的一个突发奇想，然后完善了亿下</li><li>怎么说呢……脑洞大开、哲学、想象、设定……</li><li>提建议/发现bug：<a href="mailto:forthezero@outlook.com">forthezero@outlook.com</a></li><li>可以当作一个设定看</li><li><del>设定的背后还有一个设定哦（小声</del></li><li>想到什么写什么吧</li></ul><hr><p>建议只看<code>0-rl</code>，真正有一点哲学内容，其它就当补充设定吧</p><p><code>0-rl</code>哲学成分更高，其它的是设定成分更高</p><hr><p>一开始是一个文件，本地编辑导出图片的</p><p>后来想扩张了，出了这么多文件，分享很不方便</p><p>就想着搞在线版</p><p>于是使用python+streamlit做了一个</p><p>结果发现它对中文标题的文本锚点不是中文</p><p>还有许多其它问题</p><p>总之放弃了</p><p>换用hexo搞，用fluid主题</p><p>主页的字来自<a href="//hitokoto.cn">一言api</a>中的哲学板块（请求失败会显示<code>:D</code>），与内容无关</p><hr><p>斜体字是引用一句话的意思哦</p>]]></content>
     
     
     
